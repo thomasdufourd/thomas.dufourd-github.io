@@ -1940,6 +1940,7 @@
 }
 .tf-ion-social-facebook:before {
   content: "\f231";
+  color: beige;
 }
 .tf-ion-social-foursquare-outline:before {
   content: "\f34c";
@@ -1985,6 +1986,7 @@
 }
 .tf-ion-social-instagram:before {
   content: "\f351";
+  color: beige;
 }
 .tf-ion-social-javascript-outline:before {
   content: "\f4e4";
